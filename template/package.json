@@ -1,0 +1,10 @@
+{
+  "name": "{{Database-Name}}-db",
+  "version": "0.0.1",
+  "description": "a rethinkdb migrations repo",
+  "dependencies": {
+    "assert-dotenv": "^3.0.0",
+    "rethink-migrate": "busterc/rethink-migrate#ssl-options",
+    "rethinkdb": "2.2.3"
+  }
+}
