@@ -1,4 +1,4 @@
-# {{Database-Name}}-db
+# db-{{Database-Name}}
 > a rethinkdb migrations repo
 
 - Provides commands that wrap [`rethink-migrate`](https://github.com/JohanObrink/rethink-migrate) in order to assert the use of environment settings.

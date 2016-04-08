@@ -1,5 +1,5 @@
 {
-  "name": "{{Database-Name}}-db",
+  "name": "db-{{Database-Name}}",
   "version": "0.0.1",
   "description": "a rethinkdb migrations repo",
   "dependencies": {
